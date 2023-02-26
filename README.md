@@ -60,7 +60,7 @@ Si vous avez un projet intéressant et avez besoin d'un développeur expériment
     <a href="http://www.instagram.com/hiperesp.png" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/hiperesp" target="_blank" rel="noreferrer">
+    <a href="" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </p>
