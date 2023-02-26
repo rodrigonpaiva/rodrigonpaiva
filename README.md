@@ -13,8 +13,8 @@ Si vous avez un projet intéressant et avez besoin d'un développeur expériment
 
 
 
-* 🌍 Je suis né au Brésil 🇧🇷 et je vis en France 
-* ✉️ Você pode contatar-me via [rodrigonpaiva@gmail.com](mailto:rodrigonpaiva@gmail.com)
+* 🌍 Je suis né au Brésil  http://emojipedia.org/flag-for-brazil/ et je vis en France 
+* ✉️ Vous pouvez me contacter via [rodrigonpaiva@gmail.com](mailto:rodrigonpaiva@gmail.com)
 
 
 ### Skills  
