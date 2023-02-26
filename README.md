@@ -1,7 +1,7 @@
 Bonjour, 👋 je m'appelle Rodrigo Paiva
 ==============================
 
-Je suis un développeur web ayant une grande expérience des technologies telles que HTML5, CSS3, SASS, Bootstrap, Tailwind, JavaScript, React, Angular, Vue.js, TypeScript, PHP, Node.js et Figma. Depuis que j'ai commencé à programmer, je cherche à m'améliorer de plus en plus afin de développer des solutions efficaces et de qualité.
+Je suis un développeur web ayant une grande expérience des technologies telles que HTML5, CSS3, SASS, Bootstrap, Tailwind, JavaScript, React, Angular, Vue.js, TypeScript, PHP, Node.js et Figma. Depuis que j'ai commencé à programmer, je cherche à m'améliorer de plus en plus afin de développer des solutions efficaces et de qualités.
 
 Je suis passionné par le design d'interface et l'expérience utilisateur, et je crois que la combinaison d'un bon design avec une bonne implémentation est fondamentale pour le succès d'un projet. C'est pourquoi j'essaie toujours de me tenir au courant des dernières tendances en matière de design et de technologie.
 
