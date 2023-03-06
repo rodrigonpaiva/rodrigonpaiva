@@ -46,12 +46,6 @@ Si vous avez un projet intéressant et avez besoin d'un développeur expériment
     </a>
 </p>
 
-### Badges
-
-<a href="http://www.github.com/rodrigonpaiva">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiperesp&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-
 ### Redes Sociais
 <p>
     <a href="https://www.github.com/rodrigonpaiva" target="_blank" rel="noreferrer">
