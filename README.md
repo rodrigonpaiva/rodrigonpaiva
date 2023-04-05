@@ -36,6 +36,7 @@ Si vous avez un projet intéressant et avez besoin d'un développeur expériment
 #### Backend:
 <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="mariaDB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
 </p>
 
