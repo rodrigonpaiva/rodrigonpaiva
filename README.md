@@ -14,7 +14,7 @@ Si vous avez un projet intéressant et avez besoin d'un développeur expériment
 
 
 * 🌍 Je suis né au Brésil :brazil: et je vis en France :fr: 
-* ✉️ Vous pouvez me contacter via [rodrigonpaiva@gmail.com](mailto:rodrigonpaiva@gmail.com)
+* ✉️ Vous pouvez me contacter via [rodrigonpaiva@gmail.com](mailto:contact@rodrigonpaiva.com)
 
 
 ### Skills  
