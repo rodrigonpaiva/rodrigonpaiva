@@ -40,6 +40,7 @@ Si vous avez un projet intéressant et avez besoin d'un développeur expériment
 #### Backend:
 <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
         🚀 Frameworks & Library 🔝
         <p> 
