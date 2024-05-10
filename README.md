@@ -25,6 +25,7 @@ Si vous avez un projet intéressant et avez besoin d'un développeur expériment
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
         🚀 Frameworks & Library 🔝
         <p>         
                 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SAAS" />
@@ -35,12 +36,11 @@ Si vous avez un projet intéressant et avez besoin d'un développeur expériment
                 <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJs" />
                 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
         </p>
-</p>
-
 
 #### Backend:
 <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+</p>
         🚀 Frameworks & Library 🔝
         <p> 
                 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
@@ -59,9 +59,6 @@ Si vous avez un projet intéressant et avez besoin d'un développeur expériment
                 <img src ="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
                 <img src ="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Sequelize" />
         </p>
-
-        
-</p>
 
 🖍 Design 🔝
 <p>
